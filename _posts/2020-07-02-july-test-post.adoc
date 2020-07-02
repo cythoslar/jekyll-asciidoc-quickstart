@@ -1,0 +1,9 @@
+:imagesdir: ./images
+= A test post title
+
+This is the first blog post created by myself. Testing Asciidoc + Jekyll.
+
+Let's see whether images are published as well.
+
+.This is a picture of an eye
+image::eye.jpg[]
