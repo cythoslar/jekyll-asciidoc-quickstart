@@ -1,3 +1,7 @@
+:showtitle:
+:page-navtitle: July test post
+:page-excerpt: Excerpt of the long-long post.
+:page-root: ../../../
 :imagesdir: ./images
 = A test post title
 
