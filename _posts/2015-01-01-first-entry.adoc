@@ -3,10 +3,21 @@
 :page-navtitle: First Entry
 :page-excerpt: A short kind of excerpt.
 :page-root: ../../../
+:imagesdir: ./images
 
 == Example entry
 
-Example post contents go here.
+Example post contents go here. How would all this look like when published as a website?
+
+=== Subheading
+
+Another level. Another layer. Some more content. For example, a table or something.
+
+[cols="15%,20%,65%a",options="header"]
+|===
+| Version | Date | Changelog
+| 1.0 | 2 July 2020 | Initial version
+|===
 
 A list of items:
 
@@ -14,3 +25,6 @@ A list of items:
 * Two
 * Three
 * One more
+
+.Image example
+image::blackwhite.png[]
