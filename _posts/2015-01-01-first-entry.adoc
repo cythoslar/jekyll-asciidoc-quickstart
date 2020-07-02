@@ -3,7 +3,7 @@
 :page-navtitle: First Entry
 :page-excerpt: A short kind of excerpt.
 :page-root: ../../../
-:imagesdir: ./images/
+:imagesdir: ./_images/
 
 == Example entry
 
