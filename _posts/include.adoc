@@ -1,0 +1,18 @@
+:showtitle:
+:page-navtitle: Include feature
+:page-excerpt: A short kind of excerpt.
+:page-root: ../../../
+:imagesdir: ./_images/
+
+= Inclusive substuff
+
+This page was created to try out the :include: function. Let's try putting a photo here too.
+
+.This is a photo
+image::eiffel.png[]
+
+Some more text after the photo. Filling the empty space.
+
+== Next level heading
+
+Let's see how this plays out. Subchapter. Subheading.

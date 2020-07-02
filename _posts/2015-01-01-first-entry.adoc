@@ -9,6 +9,8 @@
 
 Example post contents go here. How would all this look like when published as a website?
 
+include::include.adoc[leveloffset=+1]
+
 === Subheading
 
 Another level. Another layer. Some more content. For example, a table or something.
