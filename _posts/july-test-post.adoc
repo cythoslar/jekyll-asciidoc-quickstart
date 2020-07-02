@@ -2,7 +2,7 @@
 :page-navtitle: July test post
 :page-excerpt: Excerpt of the long-long post.
 :page-root: ../../../
-:imagesdir: ./images/
+:imagesdir: ./_images/
 = A test post title
 
 This is the first blog post created by myself. Testing Asciidoc + Jekyll.
